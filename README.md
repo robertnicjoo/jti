@@ -6,7 +6,7 @@
 4. Run following command in local repository path `npm install && npm run dev`
 5. Set your database info in `.env` file.
 6. Run following command in local repository path `php artisan migrate --seed`
-7. login with following credencials 
+7. login with following credentials 
 
 ```
 Email: admin@admin.com
